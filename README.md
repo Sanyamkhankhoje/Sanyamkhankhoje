@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanyamkhankhoje
 - 👀 I’m interested in Software Development.
-- 💞️ I’m looking to collaborate on anything that provides newer learnings
+- 💞️ I’m looking to collaborate on anything that provides new learnings
 - 📫 How to reach me : Email: khankhoje.pradeep@doubtnut.com
 
 <!---
